@@ -25,3 +25,4 @@ In the future, it is the intention for this tool to perform mutation testing on 
 Thus, the following will need to be implemented:
 * More mutation operators
 * Mutation Generation for a given project/package
+* Generate a mutation score report
